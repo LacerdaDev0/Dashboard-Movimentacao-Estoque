@@ -228,19 +228,19 @@ Entre elas:
 
 ## Página Inicial
 
-📷 *Inserir imagem.*
+ ![VisãoGeral](Imagens/VisãoGeral.png)
 
 ---
 
 ## Página de Estoque
 
-📷 *Inserir imagem.*
+ ![Movimentação](Imagens/Movimentação.png)
 
 ---
 
 ## Página de Compras
 
-📷 *Inserir imagem.*
+📷 *Em Breve*
 
 ---
 
@@ -293,6 +293,6 @@ Além da parte técnica, este projeto reforçou a importância de compreender o 
 
 Estudante de Big Data & Analytics | Power BI | SQL | Python | Excel
 
-LinkedIn: *(Adicionar link)*
+LinkedIn: https://www.linkedin.com/in/lacerdadev/
 
-GitHub: *(Adicionar link)*
+GitHub: https://github.com/LacerdaDev0
