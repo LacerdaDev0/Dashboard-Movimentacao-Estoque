@@ -138,7 +138,7 @@ Projeto/
 └── Documentação
 ```
 
-📷 *Inserir imagem da organização das pastas.*
+![Demonstração](Imagens/PastasGif.gif)
 
 ---
 
@@ -176,7 +176,7 @@ As tabelas foram separadas em:
 
 Essa organização permitiu um modelo mais escalável e melhor desempenho das consultas.
 
-📷 *Inserir imagem da modelagem.*
+![Tabelas](Imagens/OrganizaçãoTabelas.png)
 
 ---
 
